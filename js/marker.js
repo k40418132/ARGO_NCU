@@ -46,7 +46,7 @@ function Marker(poiData) {
             this.labelTriggerY = -0.9;
             break;
         default:
-            iconSize = 2;
+            iconSize = 4;
             labelSize = 0.6;
             this.labelX = 1.5;
             this.labelY = -0.4;
