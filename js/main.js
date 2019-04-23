@@ -47,7 +47,7 @@ var World = {
         if (!World.initiallyLoadedData) {
             setTimeout(function () {
                 World.loadPoisFromJsonData(lat, lon);
-            }, 5000);
+            }, 2000);
             World.initiallyLoadedData = true;
         }
         World.updateDistance(lat, lon, alt, acc);

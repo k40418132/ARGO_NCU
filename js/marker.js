@@ -9,12 +9,21 @@ function Marker(poiData) {
     var markerLocation = new AR.GeoLocation(poiData.lat, poiData.lon, poiData.altitude);
     var markerIcon = new AR.ImageResource("assets/poi_marker/" + poiData.id + ".png");
     var iconSize, labelSize, labelColor;
-    poiData.color == null ? labelColor = "#9b9b9b" : labelColor = poiData.color;
-    switch (poiData.class) {
+    //poiData.color == null ? labelColor = "#9b9b9b" : labelColor = poiData.color;
+    labelColor = "#4b4b4b";
+
+    iconSize = 5;
+    labelSize = 0.65;
+    this.labelX = 0;
+    this.labelY = -2.0;
+    this.labelTriggerX = 0;
+    this.labelTriggerY = -2.3;
+
+    /*switch (poiData.class) {
         case 0:
         case 5:
         case 6:
-            iconSize = 2;
+            iconSize =5;
             labelSize = 0.6;
             this.labelX = 1.5;
             this.labelY = -0.4;
@@ -46,14 +55,14 @@ function Marker(poiData) {
             this.labelTriggerY = -0.9;
             break;
         default:
-            iconSize = 4;
+            iconSize = 2;
             labelSize = 0.6;
             this.labelX = 1.5;
             this.labelY = -0.4;
             this.labelTriggerX = 1.7;
             this.labelTriggerY = -0.5;
             break;
-    }
+    }*/
 
 
 

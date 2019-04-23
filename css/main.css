@@ -1185,7 +1185,7 @@ mark {
     width: 80vw;
     border-radius: 186px;
     height: 45px;
-    background: #69b0ff;
+    background: #29aba4;
     transform: rotate(-45deg);
     box-shadow: 0 4px 7px -3px rgba(51, 51, 51, 0.6);
     transform-origin: center;
@@ -1202,46 +1202,46 @@ mark {
 }
 
 .stick1 {
-    background: #ff8784;
-    height: 70px;
+    background: #354458;
+    height: 50px;
 }
 
 .stick2 {
-    background: #ff8784;
+    background: #354458;
 }
 
 .stick3 {
-    background: #b2b4b7;
+    background: #e9e0d6;
 }
 
 .stick4 {
-    background: #69b0ff;
+    background: #29aba4;
 }
 
 .stick5 {
-    background: #69b0ff;
+    background: #29aba4;
 }
 .stick6 {
-    background: #ff8784;
+    background: #e9e0d6;
 }
 .stick7 {
-    background: #69b0ff;
+    background: #29aba4;
 }
 .stick8 {
-    background: #b2b4b7;
+    background: #e9e0d6;
 }
 .stick9 {
-    background: #69b0ff;
+    background: #29aba4;
 }
 .stick10 {
-    background: #ff8784;
+    background: #354458;
 }
 .stick11 {
-    background: #ff8784;
+    background: #354458;
 }
 .footer{
     width: 100%;
-    background: #4285f4;
+    background: #408686;
     bottom: 0;
     padding: 10px 0;
     position: absolute;
@@ -1257,7 +1257,7 @@ mark {
     margin: 0 auto;
     right: 0;
     left: 0;
-    background: #4577d5;
+    background: #3b8686;
     transform: rotate(45deg);
     z-index: 99;
 }
