@@ -6,8 +6,8 @@
         "alt": 60,
         "title": "中正圖書館",
         "class": 0,
-        "point": 67,
-        "url": "https://k40418132.github.io/newcsu/%E5%BB%BA%E7%AF%89%E5%88%86%E9%A0%81.html?id=12"
+        "point": 54,
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_2",
@@ -15,9 +15,9 @@
         "lon": 121.187089,
         "alt": 55,
         "title": "太空遙測中心",
-        "point": 74,
+        "point": 48,
         "class": 0,
-        "url": "https://k40418132.github.io/newcsu/%E5%BB%BA%E7%AF%89%E5%88%86%E9%A0%81.html?id=9"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_3",
@@ -26,8 +26,8 @@
         "alt": 70,
         "title": "行政大樓",
         "class": 0,
-        "point": 2,
-        "url": "https://k40418132.github.io/newcsu/%E5%BB%BA%E7%AF%89%E5%88%86%E9%A0%81.html?id=1"
+        "point": 1,
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_4",
@@ -35,9 +35,9 @@
         "lon": 121.193846,
         "alt": 60,
         "title": "志道樓",
-        "point": 54,
+        //"point": 54,
         "class": 0,
-        "url": "https://k40418132.github.io/newcsu/%E5%BB%BA%E7%AF%89%E5%88%86%E9%A0%81.html?id=17"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_5",
@@ -45,9 +45,9 @@
         "lon": 121.195922,
         "alt": 70,
         "title": "校史館",
-        "point": 4,
+        //"point": 4,
         "class": 0,
-        "url": "https://k40418132.github.io/newcsu/%E5%BB%BA%E7%AF%89%E5%88%86%E9%A0%81.html?id=2"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_6",
@@ -55,9 +55,9 @@
         "lon": 121.194556,
         "alt": 70,
         "title": "國鼎圖書資料館",
-        "point": 11,
+        //"point": 11,
         "class": 0,
-        "url": "https://k40418132.github.io/newcsu/%E5%BB%BA%E7%AF%89%E5%88%86%E9%A0%81.html?id=3"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_7",
@@ -65,9 +65,9 @@
         "lon": 121.195988,
         "alt": 60,
         "title": "遊藝館",
-        "point": 14,
+        //"point": 14,
         "class": 0,
-        "url": "https://k40418132.github.io/newcsu/%E5%BB%BA%E7%AF%89%E5%88%86%E9%A0%81.html?id=5"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_8",
@@ -75,9 +75,9 @@
         "lon": 121.195328,
         "alt": 60,
         "title": "黑盒子劇場",
-        "point": 22,
+        //"point": 22,
         "class": 0,
-        "url": "https://k40418132.github.io/newcsu/%E5%BB%BA%E7%AF%89%E5%88%86%E9%A0%81.html?id=6"
+        "url": "http://m.ncu.edu.tw/zh"
 
     },
     {
@@ -86,9 +86,9 @@
         "lon": 121.192994,
         "alt": 60,
         "title": "綜教館",
-        "point": 7,
+        "point": 58,
         "class": 0,
-        "url": "https://k40418132.github.io/newcsu/%E5%BB%BA%E7%AF%89%E5%88%86%E9%A0%81.html?id=4"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_10",
@@ -96,9 +96,9 @@
         "lon": 121.195924,
         "alt": 50,
         "title": "據德樓",
-        "point": 42,
+        //"point": 42,
         "class": 0,
-        "url": "https://k40418132.github.io/newcsu/%E5%BB%BA%E7%AF%89%E5%88%86%E9%A0%81.html?id=7"
+        "url": "http://m.ncu.edu.tw/zh"
 
     },
     {
@@ -107,9 +107,9 @@
         "lon": 121.194348,
         "alt": 70,
         "title": "總圖書館",
-        "point": 51,
+        //"point": 51,
         "class": 0,
-        "url": "https://k40418132.github.io/newcsu/%E5%BB%BA%E7%AF%89%E5%88%86%E9%A0%81.html?id=8"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_12",
@@ -117,9 +117,9 @@
         "lon": 121.192733,
         "alt": 50,
         "title": "工程一館",
-        "point": 16,
+        "point": 52,
         "class": 1,
-        "url": "https://k40418132.github.io/newcsu/%E5%BB%BA%E7%AF%89%E5%88%86%E9%A0%81.html?id=16"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_13",
@@ -127,9 +127,9 @@
         "lon": 121.191543,
         "alt": 75,
         "title": "工程二館",
-        "point": 61,
+        "point": 50,
         "class": 1,
-        "url": "https://k40418132.github.io/newcsu/%E5%BB%BA%E7%AF%89%E5%88%86%E9%A0%81.html?id=10"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_14",
@@ -137,7 +137,7 @@
         "lon": 121.188087,
         "alt": 75,
         "title": "工程三館",
-        "point": 79,
+        //"point": 40,
         "class": 1
     },
     {
@@ -146,9 +146,9 @@
         "lon": 121.187695,
         "alt": 75,
         "title": "工程五館",
-        "point": 99,
+        "point": 49,
         "class": 1,
-        "url": "https://k40418132.github.io/newcsu/%E5%BB%BA%E7%AF%89%E5%88%86%E9%A0%81.html?id=12"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_16",
@@ -156,9 +156,9 @@
         "lon": 121.187668,
         "alt": 75,
         "title": "工程四館",
-        "point": 86,
+        //"point": 86,
         "class": 1,
-        "url": "https://k40418132.github.io/newcsu/%E5%BB%BA%E7%AF%89%E5%88%86%E9%A0%81.html?id=13"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_17",
@@ -166,9 +166,9 @@
         "lon": 121.194575,
         "alt": 45,
         "title": "文學院",
-        "point": 83,
+        "point": 20,
         "class": 1,
-        "url": "https://k40418132.github.io/newcsu/%E5%BB%BA%E7%AF%89%E5%88%86%E9%A0%81.html?id=14"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_18",
@@ -176,9 +176,9 @@
         "lon": 121.193482,
         "alt": 45,
         "title": "志希館",
-        "point": 18,
+        "point": 56,
         "class": 1,
-        "url": "https://k40418132.github.io/newcsu/%E5%BB%BA%E7%AF%89%E5%88%86%E9%A0%81.html?id=15"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_19",
@@ -186,17 +186,17 @@
         "lon": 121.190371,
         "alt": 45,
         "title": "客家學院",
-        "point": 37,
+        //"point": 37,
         "class": 1
 
     },
     {
         "id": "poi_20",
-        "lat": 24.969976,
-        "lon": 121.192045,
+        "lat": 24.96702, 
+        "lon": 121.19455,
         "alt": 45,
         "title": "科學一館",
-        "point": 4,
+        "point": 6,
         "class": 1
 
     },
@@ -206,7 +206,7 @@
         "lon": 121.192045,
         "alt": 45,
         "title": "科學二館",
-        "point": 38,
+        "point": 61,
         "class": 1
     },
     {
@@ -253,7 +253,7 @@
         "title": "管理大樓",
         "point": 67,
         "class": 1,
-        "url": "https://page.line.me/bxm3019a"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_27",
@@ -263,7 +263,7 @@
         "title": "鴻經館",
         "class": 1,
         "point": 1,
-        "url": "http://hr.csu.edu.tw/"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_28",
@@ -273,7 +273,7 @@
         "title": "中大新村",
         "class": 2,
         "point": 18,
-        "url": "http://military.csu.edu.tw/"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_29",
@@ -283,7 +283,7 @@
         "title": "太極銅雕",
         "class": 1,
         "point": 2,
-        "url": "http://csupe.csu.edu.tw/"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_30",
@@ -293,7 +293,7 @@
         "title": "中大湖",
         "class": 2,
         "point": 42,
-        "url": "http://osa.csu.edu.tw/"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_31",
@@ -303,7 +303,7 @@
         "title": "百花川",
         "class": 2,
         "point": 2,
-        "url": "http://general.csu.edu.tw/"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_32",
@@ -313,7 +313,7 @@
         "title": "蘊．行",
         "class": 2,
         "point": 67,
-        "url": "http://oia.csu.edu.tw/"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_33",
@@ -323,7 +323,7 @@
         "title": "女十四舍地下廣場",
         "class": 3,
         "point": 67,
-        "url": "http://li.csu.edu.tw/UIPWeb/wSite/mp?mp=1"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_34",
@@ -333,7 +333,7 @@
         "title": "小木屋鬆餅",
         "class": 3,
         "point": 2,
-        "url": "http://account102.csu.edu.tw/"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_35",
@@ -415,7 +415,7 @@
         "title": "男十三舍",
         "class": 4,
         "point": 14,
-        "url": "https://akira543152.github.io/csucivil/"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_44",
@@ -425,7 +425,7 @@
         "title": "男三舍",
         "class": 4,
         "point": 61,
-        "url": "https://akira543152.github.io/csumech/"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_45",
@@ -435,7 +435,7 @@
         "title": "男五舍",
         "class": 4,
         "point": 64,
-        "url": "https://akira543152.github.io/csuarch/"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_46",
@@ -445,7 +445,7 @@
         "title": "男六舍",
         "class": 4,
         "point": 2,
-        "url": "https://akira543152.github.io/"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_47",
@@ -455,7 +455,7 @@
         "title": "田徑場",
         "class": 5,
         "point": 7,
-        "url": "https://akira543152.github.io/csuelectron"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_48",
@@ -464,8 +464,8 @@
         "alt": 45,
         "title": "羽球館",
         "class": 5,
-        "point": 79,
-        "url": "https://akira543152.github.io/csuectrical"
+        "point": 35,
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_49",
@@ -474,8 +474,8 @@
         "alt": 45,
         "title": "依仁堂",
         "class": 5,
-        "point": 86,
-        "url": "https://akira543152.github.io/csuit/"
+        "point": 33,
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_50",
@@ -485,7 +485,7 @@
         "title": "游泳池",
         "class": 5,
         "point": 61,
-        "url": "https://akira543152.github.io/csumis/"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_51",
@@ -495,7 +495,7 @@
         "title": "溜冰場",
         "class": 5,
         "point": 86,
-        "url": "https://akira543152.github.io/csubm/"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_52",
@@ -505,7 +505,7 @@
         "title": "排球場/籃球場",
         "class": 5,
         "point": 79,
-        "url": "https://akira543152.github.io/csufb/"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_53",
@@ -515,7 +515,7 @@
         "title": "網球場",
         "class": 5,
         "point": 37,
-        "url": "https://akira543152.github.io/csuecce/"
+        "url": "http://m.ncu.edu.tw/zh"
     },
     {
         "id": "poi_54",
@@ -525,6 +525,6 @@
         "title": "攀岩塔",
         "class": 5,
         "point": 54,
-        "url": "https://akira543152.github.io/csupe/"
+        "url": "http://m.ncu.edu.tw/zh"
     }
 ];
