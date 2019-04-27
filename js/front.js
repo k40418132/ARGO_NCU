@@ -220,10 +220,10 @@ $(function () {
   console.log(offsetTop + "," + offsetWidth);
   setTimeout(function () {
     $("#loading-white").fadeOut(500);
-    $(".spinner").delay(2000).fadeIn(300);
+    $(".spinner").delay(1000).fadeIn(300);
   }, 1000);
 
-  setTimeout('InitPart1()', 3000);
+  setTimeout('InitPart1()', 2000);
 })
 
 function InitPart1() {
