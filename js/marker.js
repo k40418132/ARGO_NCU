@@ -18,6 +18,11 @@ function Marker(poiData) {
     this.labelY = -2.0;
     this.labelTriggerX = 0;
     this.labelTriggerY = -2.3;
+    if(poiData.id == "poi_52" || poiData.id == "poi_53"){
+        this.labelY = -1.0;
+        this.labelTriggerX = 0;
+        this.labelTriggerY = -1.3;
+    }
 
     /*switch (poiData.class) {
         case 0:

@@ -281,7 +281,7 @@
         "lon": 121.19366,
         "alt": 45,
         "title": "太極銅雕",
-        "class": 1,
+        "class": 2,
         "point": 2,
         "url": "http://m.ncu.edu.tw/zh"
     },

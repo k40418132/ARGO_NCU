@@ -169,7 +169,7 @@ function keyWordInitial() {
     if (bID != 0 && bID) poiData[i].keyword[0].ky += bID + " (編號),";
     poiData[i].keyword[0].ky += poiData[i].title + ",";
   }
-  console.log("Keyword初始化");
+  consoleWrite("Keyword初始化");
 }
 
 
@@ -393,9 +393,8 @@ function InitPart1() {
           var lastIndex = ky.lastIndexOf(",", index) + 1;
           var matchWord = ky.substr(lastIndex, ky.indexOf(",", index) - lastIndex);
           matchWord = matchWord.replace(serchKy, "<mark>" + serchKy + "</mark>");
-          //var imgID = (i + 1 > 26 && i + 1 < 35) || (i + 1 > 42 && i + 1 < 62) ? "poi_27" : poiData[i].id;
           var a = $("<table class='search-card' id='res_" + poiData[i].id + "' onclick='World.onSearchPanelPoiClick(" + '"' + poiData[i].id + '"' + ")'></table>");
-          var b = $("<td rowspan='2'><div class='circle-img circle-small'><img src='assets/poi_img/" + imgID + ".jpg'></div></td>");
+          var b = $("<td rowspan='2'><div class='circle-img circle-small'><img src='assets/poi_img/" + poiData[i].id + ".jpg'></div></td>");
           var c = $("<td>" + matchWord + "</td>");
           var d = $("<td rowspan='2'>" + World.onPoiGetDistance(poiData[i].id) + "</td>");
           var e = $("<tr></tr>").append(b).append(c).append(d);

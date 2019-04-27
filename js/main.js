@@ -152,7 +152,7 @@ var World = {
     onMarkerClassFilter: function onMarkerClassFilterFn(filter) {
         this.currentClassMarker = [];
         for (var i = 0; i < World.markerList.length; i++) {
-            if (filter == World.markerList[i].poiData.class) {
+            if (filter == World.markerList[i].poiData.class && this.currentLocation != World.markerList[i].poiData.id) {
                 World.markerList[i].markerObject.enabled = true;
                 this.currentClassMarker.push(World.markerList[i].poiData);
             } else World.markerList[i].markerObject.enabled = false;
