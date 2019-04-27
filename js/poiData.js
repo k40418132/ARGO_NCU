@@ -45,7 +45,7 @@
         "lon": 121.195922,
         "alt": 70,
         "title": "校史館",
-        //"point": 4,
+        "point": 74,
         "class": 0,
         "url": "http://m.ncu.edu.tw/zh"
     },
@@ -65,7 +65,7 @@
         "lon": 121.195988,
         "alt": 60,
         "title": "遊藝館",
-        //"point": 14,
+        "point": 72,
         "class": 0,
         "url": "http://m.ncu.edu.tw/zh"
     },
@@ -96,7 +96,7 @@
         "lon": 121.195924,
         "alt": 50,
         "title": "據德樓",
-        //"point": 42,
+        "point": 73,
         "class": 0,
         "url": "http://m.ncu.edu.tw/zh"
 
@@ -137,7 +137,7 @@
         "lon": 121.188087,
         "alt": 75,
         "title": "工程三館",
-        //"point": 40,
+        "point": 40,
         "class": 1
     },
     {
@@ -186,7 +186,7 @@
         "lon": 121.190371,
         "alt": 45,
         "title": "客家學院",
-        //"point": 37,
+        "point": 88,
         "class": 1
 
     },
@@ -242,7 +242,7 @@
         "lon": 121.1904944,
         "alt": 45,
         "title": "國鼎光電大樓",
-        "point": 74,
+        "point": 87,
         "class": 1
     },
     {
@@ -475,7 +475,34 @@
         "title": "依仁堂",
         "class": 5,
         "point": 33,
-        "url": "http://m.ncu.edu.tw/zh"
+        "url": "http://m.ncu.edu.tw/zh",
+        "area": [
+            {
+                "lat": 24.96825, 
+                "lon": 121.19079,
+                "radius": 30
+            },
+            {
+                "lat": 24.96851, 
+                "lon": 121.19079,
+                "radius": 25
+            },
+            {
+                "lat": 24.96866, 
+                "lon": 121.19079,
+                "radius": 25
+            },
+            {
+                "lat": 24.96803, 
+                "lon": 121.19079,
+                "radius": 25
+            },
+            {
+                "lat": 24.96787, 
+                "lon": 121.19079,
+                "radius": 25
+            }
+        ]
     },
     {
         "id": "poi_50",
@@ -484,7 +511,7 @@
         "alt": 45,
         "title": "游泳池",
         "class": 5,
-        "point": 61,
+        "point": 92,
         "url": "http://m.ncu.edu.tw/zh"
     },
     {

@@ -112,14 +112,14 @@ function Marker(poiData) {
 
 
     
-    if (poiData.class == 0) {
+    
         this.actionRange = [];
         var firstUserLocation = new AR.GeoLocation(poiData.userLat, poiData.userLon);
         if (!poiData.area) {
             poiData.area = [{
                 "lat": poiData.lat,
                 "lon": poiData.lon,
-                "radius": 30
+                "radius": 25
             }];
             
         }
@@ -154,7 +154,7 @@ function Marker(poiData) {
                 }
             }
         }
-    }
+    
 
 
     this.markerObject = new AR.GeoObject(markerLocation, {

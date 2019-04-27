@@ -393,7 +393,7 @@ function InitPart1() {
           var lastIndex = ky.lastIndexOf(",", index) + 1;
           var matchWord = ky.substr(lastIndex, ky.indexOf(",", index) - lastIndex);
           matchWord = matchWord.replace(serchKy, "<mark>" + serchKy + "</mark>");
-          var imgID = (i + 1 > 26 && i + 1 < 35) || (i + 1 > 42 && i + 1 < 62) ? "poi_27" : poiData[i].id;
+          //var imgID = (i + 1 > 26 && i + 1 < 35) || (i + 1 > 42 && i + 1 < 62) ? "poi_27" : poiData[i].id;
           var a = $("<table class='search-card' id='res_" + poiData[i].id + "' onclick='World.onSearchPanelPoiClick(" + '"' + poiData[i].id + '"' + ")'></table>");
           var b = $("<td rowspan='2'><div class='circle-img circle-small'><img src='assets/poi_img/" + imgID + ".jpg'></div></td>");
           var c = $("<td>" + matchWord + "</td>");
